@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+#mainWrapper p{
+	margin:0px;
+	padding:0px;
+}
+#mainHeadingCal{
+	margin:10px;
+	padding:0px;
+}
+#mainWrapper h1{
+	font-size:18px;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	color:#333333;
+}
+.wc_b_calc table tr td {
+	padding:0px;
+	border:0px; 
+}
+#mainWrapper .powered{
+	margin-top:-33px;
+}
+.wc_b_calc table {
+	padding:0px;
+	border:0px; 
+}
+#mainWrapper table {
+	border:0px; 
+}
+#mainWrapper{
+	width:580px;
+	position:relative;
+	margin:auto;
+	border:1px solid #000;
+	padding:20px; 
+	padding-bottom:10px;
+	background-image:url(images/money.jpg);
+	background-position:right;
+	background-repeat:no-repeat;
+	height:250px;
+	moz-border-radius:10px;
+	border-radius:10px;
+}
+content a{
+	color:#000;
+	text-decoration:none;
+}
+#mainWrapper p{
+	color:#000;
+	font-size:12px;
+	padding-top:80px;
+	float:right;
+	background-image:none;
+}
+#last{
+	color:#000;
+	font-size:12px;
+	padding-top:8px;
+	text-decoration:none;
+	background-image:none;
+}
+
+.clearit{
+	position:relative;
+	width:100%;
+	height:1px;
+	clear:both;
+}
+#mainWrapper #loan{
+	width:250px;
+	border: medium none transparent; 
+	background: none repeat scroll 0% 0% transparent; 
+	font-weight: bold;
+	font-size: 130%;
+}
+#mainWrapper strong{
+	color:#000;
+}
+#mainWrapper img{
+box-shadow:none;
+}
